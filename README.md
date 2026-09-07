@@ -79,3 +79,35 @@ The main file for this project is:
 `Store Inventory.xlsm`
 
 > Microsoft Excel is recommended for opening the file and using its full functionality.
+
+> ## Screenshots
+
+### Check Inventory
+
+Search for an item using its Item ID and view the product and inventory details.
+
+![Check Inventory](screenshots/Check%20Inventory.png)
+
+### Add Inventory
+
+Add a new product by entering its product details and pricing information.
+
+![Add Inventory](screenshots/Add%20Inventory.png)
+
+### Update Inventory
+
+Search for an existing product and update its inventory information.
+
+![Update Inventory](screenshots/Update%20Inventory.png)
+
+### Record Sale
+
+Record a sale by entering the item and quantity sold.
+
+![Record Sale](screenshots/Sales%20Inventory.png)
+
+### Sales History
+
+Review previously recorded sales and related product information.
+
+![Sales History](screenshots/Sales%20History.png)
