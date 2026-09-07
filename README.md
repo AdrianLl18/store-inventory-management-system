@@ -110,4 +110,4 @@ Record a sale by entering the item and quantity sold.
 
 Review previously recorded sales and related product information.
 
-![Sales History](screenshots/Sales%20History.png)
+![Sales History](Screenshots/Sales%20History.png)
